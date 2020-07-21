@@ -3,7 +3,8 @@ git-flow
 
 A collection of Git extensions to provide high-level repository operations
 for Vincent Driessen's [branching model](http://nvie.com/git-model "original
-blog post").
+blog post"). This fork is an attempt to integrate GitLab's merging/code review
+tools into these extensions.
 
 
 Getting started
